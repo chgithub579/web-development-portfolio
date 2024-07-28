@@ -1,0 +1,9 @@
+body{
+    shape-image-threshold: initial;
+    background-color: rgb(33, 44, 12);
+    text-align: center;
+    
+}
+img{
+    border-radius: 50%;
+}
